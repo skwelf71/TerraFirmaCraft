@@ -1,9 +1,5 @@
 {
-  "__comment__": "This file was created by SKWELF71",
-  "__comment2__": "Contact me at burn10071@gmail.com",
-  "__comment3__": "Nynorsk translation for TFC 1.20.1",
-  "__comment4__": "Based on standard publishing Nynorsk writing conventions as much as possible",
-  "__comment5__": "Sunnfjord dialect standards employed in ambiguous situations",
+  "__comment__": "This file was created by skwelf71; contact me at burn10071@gmail.com",
   "death.attack.tfc.grill": "%1$s grilla seg til døde.",
   "death.attack.tfc.grill.player": "%1$s grilla seg til døde medan dei prøvde å flykte %2$s",
   "death.attack.tfc.pot": "%1$s kokte seg til suppe.",
