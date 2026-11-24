@@ -321,7 +321,7 @@
   "tfc.tooltip.blast_furnace_ore": "Inntak: %d / %d",
   "tfc.tooltip.blast_furnace_fuel": "Brennsel: %d / %d",
   "tfc.tooltip.crucible_content_line": "  %s (§2%s%%§r)",
-  "tfc.tooltip.fertilized": "§6Gjødsla",
+  "tfc.tooltip.fertilized": "§6Befrukta",
   "tfc.tooltip.egg_hatch": "Skal klekkje om %s dagar",
   "tfc.tooltip.egg_hatch_today": "Skal klekkje i dag!",
   "tfc.tooltip.fishing.bait": "§6Agn: ",
